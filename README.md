@@ -38,7 +38,7 @@ Example output:
 ----------------------
 
 ```
-./test-search-examples
+./text-search-examples
 ### FILE: input-documents/eng_88591.txt
     Detected encoding:
         ISO-8859-1
