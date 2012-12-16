@@ -9,12 +9,12 @@ Installation
 * Install "github.com/goodsign/libtextcat"
 * Install "github.com/goodsign/snowball"
 * Install "github.com/goodsign/icu"
-* go get github.com/goodsign/test-search-examples
+* go get github.com/goodsign/text-search-examples
 
-After that you go to **$GOPATH/github.com/goodsign/test-search-examples** and
+After that you go to **$GOPATH/github.com/goodsign/text-search-examples** and
 
 * go build
-* ./test-search-examples
+* ./text-search-examples
 
 Detailed description
 =====================
